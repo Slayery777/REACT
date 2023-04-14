@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   box-sizing: border-box;
 }
@@ -7,6 +8,8 @@
   --color-active: #0f7dc6;
 }
 
+=======
+>>>>>>> b0dd1071662b997505d112bf1a30e2272b35ea45
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -16,6 +19,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+<<<<<<< HEAD
 header {
   background-color: var(--color-bg);
   padding: 2rem 0;
@@ -60,3 +64,9 @@ main a:hover {
   color: var(--color-active);
   cursor: default;
 }
+=======
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+>>>>>>> b0dd1071662b997505d112bf1a30e2272b35ea45

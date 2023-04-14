@@ -19,9 +19,6 @@
 .env.production.local
 
 npm-debug.log*
-<<<<<<< HEAD
 yarn.lock
-=======
->>>>>>> b0dd1071662b997505d112bf1a30e2272b35ea45
 yarn-debug.log*
 yarn-error.log*
